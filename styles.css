@@ -1,0 +1,25 @@
+.intro {
+    font-family: arial, Courier, monospace;
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: aqua;
+}
+
+ul {
+    color: lime;
+    font-family: "Arial Narrow";
+}
+
+ol {
+    color: blueviolet;
+}
+
+body {
+    align-content: center;
+}
